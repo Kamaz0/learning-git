@@ -32,3 +32,4 @@ print(f"W sumie kupuję {ctr} produktów")
 # print(zakupy.values()) #prints values
 
 print("There is no dick in the village!")
+print("Enough of this BS!")
