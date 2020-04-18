@@ -30,3 +30,5 @@ print(f"W sumie kupuję {ctr} produktów")
 # print(zakupy.items()) #prints keys and values
 # print(zakupy.keys()) #prints keys
 # print(zakupy.values()) #prints values
+
+print("There is no dick in the village!")
